@@ -11,7 +11,6 @@ Alejandro Valencia Ossa
 Este trabajo contiene una GIU con una implementación de CRUD en python usando la librería Tkinter. El programa contiene un formulario para gestionar usuarios con:
 - Nombre 
 - Correo electrónico
-Y 4 botones: Create, Read, Update, Delete
 
 #### Interfaz gráfica de usuario
 Las siguientes imágenes muestran el proceso de creación de dos usuarios y la 
