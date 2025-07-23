@@ -14,7 +14,8 @@ Este trabajo contiene una GIU con una implementación de CRUD en python usando l
 Y 4 botones: Create, Read, Update, Delete
 
 #### Interfaz gráfica de usuario
-Las siguientes imágenes muestran el proceso de creación de dos usuarios y la posterior edición de un correo electrónico asociado a un usuario.
+Las siguientes imágenes muestran el proceso de creación de dos usuarios y la 
+posterior edición de un correo electrónico asociado a un usuario.
 ![interfaz1](/GUI1.png)
 ![interfaz2](/GUI2.png)
 #### Diagrama de clase
