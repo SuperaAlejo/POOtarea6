@@ -12,6 +12,8 @@ Este trabajo contiene una GIU con una implementación de CRUD en python usando l
 - Nombre 
 - Correo electrónico
 
+Como es usual en mis trabajos, la interfaz está presentada en modo oscuro para dar modernidad y frescura.
+
 #### Interfaz gráfica de usuario
 Las siguientes imágenes muestran el proceso de creación de dos usuarios y la posterior edición de un correo electrónico asociado a un usuario.
 
